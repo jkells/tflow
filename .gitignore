@@ -1,0 +1,8 @@
+*_ReSharper*
+*.suo
+*.user
+*.log
+obj/
+bin/
+*.bak
+*.pdb

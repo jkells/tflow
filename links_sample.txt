@@ -1,0 +1,3 @@
+http://www.example.com/path/test.iso
+http://www.dallas-server-xyz.com/path/test.iso
+http://www.dallas-server-xyz.com/path/bigfile.mpeg
