@@ -7,6 +7,9 @@ It is handy for determining if you are suffering from network issues during cert
 
 TFlow will only download the start of the file. By default it will download the file for 15 seconds or 8Mb which ever comes first. These values can be configured on the command line.
 
+## License
+TFlow is released under the MIT license.
+
 ## Usage
 Command line options
 
